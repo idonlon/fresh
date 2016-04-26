@@ -1,0 +1,9 @@
+img { 
+ 	padding: 0.5em; 
+ 	position:absolute;
+ }
+
+ #del {
+ left:200px;
+ top:100px;
+ }
